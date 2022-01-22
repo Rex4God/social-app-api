@@ -1,0 +1,477 @@
+[{
+  "_id": {
+    "$oid": "61a09f5ddfe2803d84390f62"
+  },
+  "userID": "zRMF0Q",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1979-11-26T00:00:00Z"
+  },
+  "emailAddress": "kunlexengine@gmail.com",
+  "emailverify": false,
+  "fullName": "Adeolu",
+  "gender": "male",
+  "password": "$2b$10$rlUcxlC4SR3SGWn6WUinyOco1gij4aESSEgievhPj0udG3bQHEkri",
+  "phoneNumber": "08125653442",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-11-26T08:48:29.823Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Meetadekunle",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6MTYyNmEyZjI2YTA4ZjdlNGJiYzA2OCIsImV4cCI6MTY0MTgwNDU5MCwiZmlkIjoiZG03Ul83TWJRYkdTQy1FRGxxVUJDbCIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRgIhANiR4QnHVIbNpRIa3sKmwd6h50RVB3PrFOfpJr5BvkZSAiEA-ow32CCuDuay5lJtBbsniMcPbuDN_WdnlXd3fRuhdg0",
+  "loginType": "password"
+},{
+  "_id": {
+    "$oid": "61a0f759dfe2803d8443e9f9"
+  },
+  "userID": "x8JVIH",
+  "countryCode": "234",
+  "dob": {
+    "$date": "2000-11-26T00:00:00Z"
+  },
+  "emailAddress": "emmanuelgbayes3@gmail.com",
+  "emailverify": false,
+  "fullName": "Gbayesola Adetunde",
+  "gender": "male",
+  "password": "$2b$10$jKBw.vbzwemx7ytVTGtNweC/iX4J91k1f.8N7H9db25WknzafJZ.u",
+  "phoneNumber": "08176534290",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-11-26T15:03:53.650Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "EmmaG",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6OTYzYTAwNTA0Njg2MjAzNWJiYzA2OCIsImV4cCI6MTY0MzA5NzkzMCwiZmlkIjoiZFFSd3RRUDFRQmF3Tk91eEg5MjROMSIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRQIgaqFZ3zEcx_iPQ1qqgNenDl0AM3YBawSBZV7T6nsXuwoCIQDlmy0l1792fNsYyEtrSuds3CEorN6UdcxjWhSTFfYPAQ",
+  "loginType": "password"
+},{
+  "_id": {
+    "$oid": "61a4a62fdfe2803d84a94663"
+  },
+  "userID": "YNyCk2",
+  "countryCode": "234",
+  "dob": {
+    "$date": "2003-01-01T00:00:00Z"
+  },
+  "emailAddress": "kehinde@2canplay.com",
+  "emailverify": false,
+  "fullName": "kehinde",
+  "gender": "male",
+  "password": "$2b$10$aYOu1UztAFw9EgzTFbiKWuXh/mLmHIvIWGI2dFbTn8r0t2T..RjMq",
+  "phoneNumber": "08100049561",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-11-29T10:06:39.664Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "kenny0",
+  "wallet": 0,
+  "loginType": "password"
+},{
+  "_id": {
+    "$oid": "61ab94d9dfe2803d846fc915"
+  },
+  "userID": "DWQRAD",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1994-12-04T00:00:00Z"
+  },
+  "emailAddress": "egbayesola@gmail.com",
+  "emailverify": false,
+  "fullName": "Seyi Tunde",
+  "gender": "female",
+  "password": "$2b$10$6rBym3aMIEKJfHW6WYTSMOal/jLglMhY6CRrnOtO0x0GmR6f9Uhw.",
+  "phoneNumber": "07019290422",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859945/Group_721_dfyc7g.png",
+  "registerDate": {
+    "$date": "2021-12-04T16:18:33.142Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Seyi",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6MTYyNmEyZjI2YTA4ZjdlNGJiYzA2OCIsImV4cCI6MTYzOTIzOTUxOCwiZmlkIjoiZjZXMWtMcF9UYWVYZWhJcjZWTzZ0QiIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRQIgWajvtuZiHF2K8DURXip7KkaF6Oq-42efYhUfyV3iTA4CIQCPrwvCFbOrovSh3-KjtdBOgrZeOD-YysPaxzFhuRZQ0Q",
+  "loginType": "password"
+},{
+  "_id": {
+    "$oid": "61abcaaddfe2803d847597a7"
+  },
+  "userID": "xTL5bh",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1984-12-04T00:00:00Z"
+  },
+  "emailAddress": "kunlextech@gmail.com",
+  "emailverify": false,
+  "fullName": "Adekunle",
+  "gender": "male",
+  "password": "$2b$10$I0.BfDQ1BRFBHRlUrtVAyuTeSCaH6u48hcs3ertr1wDZ/cPcBm6LG",
+  "phoneNumber": "08033574410",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-12-04T20:08:13.927Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Adeolu",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6OTYzYTAwNTA0Njg2MjAzNWJiYzA2OCIsImV4cCI6MTY0MzEwNjg3NCwiZmlkIjoiZGdLUVo4ZktURkNiQVZXbUdrbmdoQiIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRQIgRCaPCzpdZbuBCDySRid5gzyg2_MVYQZHvQXhFEJxQV4CIQCqIY_esDVpCQEb_2MHa8jH0iMyvxnR0DEoRmm9DIrdGA",
+  "loginType": "password"
+},{
+  "_id": {
+    "$oid": "61b21e19dfe2803d84240894"
+  },
+  "userID": "XCgHed",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1997-12-09T00:00:00Z"
+  },
+  "emailAddress": "adeyemi@gmail.com",
+  "emailverify": false,
+  "fullName": "Adeyemi England",
+  "gender": "male",
+  "password": "$2b$10$1/9rr4RTlA8wjnra7YcKnuZHhzA2R8iei3CcYegCuEVOMy4QbrQ7K",
+  "phoneNumber": "09015467210",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-12-09T15:17:45.675Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Adeflow",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6MTYyNmEyZjI2YTA4ZjdlNGJiYzA2OCIsImV4cCI6MTYzOTU3NzAxNCwiZmlkIjoiZjZXMWtMcF9UYWVYZWhJcjZWTzZ0QiIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRQIgBp--uFD2SR8OlDa0ttHD9AImSy98ZZCCH_IGFahEeIkCIQD39IjuQNqT4X5hCnvLAnaZbIs707y3SHzynhEdu7TOXg"
+},{
+  "_id": {
+    "$oid": "61b2218bdfe2803d84246b0c"
+  },
+  "userID": "XDuxK2",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1977-12-09T00:00:00Z"
+  },
+  "emailAddress": "kunle@gmail.com",
+  "emailverify": false,
+  "fullName": "Michela",
+  "gender": "male",
+  "password": "$2b$10$OteDDcfJFxFSuhOyjW8Uv.ZAZItiUZM3H5e0fO5d8lj4vjlIjY1wm",
+  "phoneNumber": "08027635940",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-12-09T15:32:27.646Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Efeezy2020",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6MTYyNmEyZjI2YTA4ZjdlNGJiYzA2OCIsImV4cCI6MTYzOTY2ODc1NCwiZmlkIjoiZEJfN3RLNjNUWUNjdTdRWGlQMjFkZSIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRQIhAP0ZOTavmCJ3TR7QAvQlNLgn_cYcgRI7t2toC8b7xtXZAiAnE5MsFeyxg296OgZTdrGglOppjtCBZfogRk2RfPdI1A"
+},{
+  "_id": {
+    "$oid": "61b77c3b8083e1f6e3877cf1"
+  },
+  "userID": "popHfC",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1978-12-13T00:00:00Z"
+  },
+  "emailAddress": "talktobolaji2020@gmail.com",
+  "emailverify": false,
+  "fullName": "Bolaji",
+  "gender": "male",
+  "password": "$2b$10$HnChhuS9zETpj6h0f8wuSuYb0PttzEcTZ6MnCRNqtS6TD/BCcsAMu",
+  "phoneNumber": "08034916931",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-12-13T17:00:43.463Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Adesoji",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6MTYyNmEyZjI2YTA4ZjdlNGJiYzA2OCIsImV4cCI6MTY0MDAxOTY0OSwiZmlkIjoiZFB3UUFWRXVUVVdyY05tTVhyTThOOSIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRQIhAOXz9-1lXdJcib_HlDe8jt08BrD2BR2SycOY9WYQeJVYAiBQlcsOb8OaiKujcwmfuul9cgbT-ThnJTg8hJxXASFwBw"
+},{
+  "_id": {
+    "$oid": "61bae659fe6091264d6b813d"
+  },
+  "userID": "Py7rAv",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1995-12-16T00:00:00Z"
+  },
+  "emailAddress": "adebola@gmail.com",
+  "emailverify": false,
+  "fullName": "Adex Bolanle",
+  "gender": "male",
+  "password": "$2b$10$FGmpyMHzimjFyUsdvMdpoOnvA/V1vNaI15AY4JZb0IJxVxcqMd93q",
+  "phoneNumber": "07085564120",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-12-16T07:10:17.767Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Adebola",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6MTYyNmEyZjI2YTA4ZjdlNGJiYzA2OCIsImV4cCI6MTY0MDI0MTg4MiwiZmlkIjoiZnBtS1ltUG9TYmljNy1yX05ZWGxCdyIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRAIgHdN20lzS9jWCYA8Q--idfnnHg_Vk59m6B6rgO8V_QuMCIAQBQI0-FY3nMH5fZvvORbz0l5ctU_tBETP1R1URqyvJ"
+},{
+  "_id": {
+    "$oid": "61bb5b1efe6091264d77c628"
+  },
+  "userID": "k79Jak",
+  "countryCode": "234",
+  "dob": {
+    "$date": "2003-01-01T00:00:00Z"
+  },
+  "emailAddress": "info@micserah.com",
+  "emailverify": false,
+  "fullName": "Adekenl",
+  "gender": "male",
+  "password": "$2b$10$XMRhhJanBQ.dntPgJV9PDuAqVf8St8euZHICXyZzmEeWDH5pK82pq",
+  "phoneNumber": "81456345289",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-12-16T15:28:30.109Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "aokuwa",
+  "wallet": 0
+},{
+  "_id": {
+    "$oid": "61bb5bebfe6091264d77dcb0"
+  },
+  "userID": "t9R0t3",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1993-12-16T00:00:00Z"
+  },
+  "emailAddress": "jade@gmail.com",
+  "emailverify": false,
+  "fullName": "Emmanuel",
+  "gender": "male",
+  "password": "$2b$10$p9WSqz7QDrdUYwooFsYk8u39A.XjRi8mzhpmDucjiNuElQUmBz24W",
+  "phoneNumber": "081645737616",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-12-16T15:31:55.385Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Jade",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6MTYyNmEyZjI2YTA4ZjdlNGJiYzA2OCIsImV4cCI6MTY0MDI0MzQyNCwiZmlkIjoiZnBtS1ltUG9TYmljNy1yX05ZWGxCdyIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRQIhALDHMWDTCTK6oGjZMTMQOPtUCwFOjez6h6vsTgDuUsK3AiA8JiHzCs0AG7AugW529vdvyQhOevzY1s5qR1TPcmSrsQ"
+},{
+  "_id": {
+    "$oid": "61bb5c84fe6091264d77ede7"
+  },
+  "userID": "d1amGf",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1991-12-16T00:00:00Z"
+  },
+  "emailAddress": "kunle123@gmail.com",
+  "emailverify": false,
+  "fullName": "Micheal Ojo",
+  "gender": "male",
+  "password": "$2b$10$NZAhqdW.dgeO6uDhplxsie4.wfD/K5VWC3FngBXUCA5lmEnrt9xPi",
+  "phoneNumber": "08046537821",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-12-16T15:34:28.068Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Dream20",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6MTYyNmEyZjI2YTA4ZjdlNGJiYzA2OCIsImV4cCI6MTY0MDI0NjQxNSwiZmlkIjoiZGpzT3gtZlZSX21PaU9lX05Hb3lnUiIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRQIgOZH5WHfrIsInFldvTLJj--RBoR2pkAuOTn825U8Y1KoCIQCDJnZtUQx9XsHk3C3dvV_yz-KZ_L6qKqxYhnL09gacYg"
+},{
+  "_id": {
+    "$oid": "61bd9fbafe6091264db6403b"
+  },
+  "userID": "9MJTzH",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1979-12-18T00:00:00Z"
+  },
+  "emailAddress": "adeolu@gmail.com",
+  "emailverify": false,
+  "fullName": "Adeshola",
+  "gender": "female",
+  "password": "$2b$10$2Fo7BfhVmsNBb.6BGiPxZuuRyyTjGyo3b9x2gjWrRWYAqfsKQod3.",
+  "phoneNumber": "0815345625",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859945/Group_721_dfyc7g.png",
+  "registerDate": {
+    "$date": "2021-12-18T08:45:46.258Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Medview",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6MTYyNmEyZjI2YTA4ZjdlNGJiYzA2OCIsImV4cCI6MTY0MDM2NjQ1MiwiZmlkIjoiY0pXUzFqUzlSb0tsZDFBXzNRcm94TyIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRAIgW2KopjIqq6fro_ivNgls38Hbd9KNUUBGYGq-0IfFctMCIHE-ztPJ5EYxm748q06SDnbhBc2CUp4HF8HdNoDvPv-O"
+},{
+  "_id": {
+    "$oid": "61c40df0fe6091264d6b03d2"
+  },
+  "userID": "MPcPX7",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1999-12-23T00:00:00Z"
+  },
+  "emailAddress": "tubosun@gmail.com",
+  "emailverify": false,
+  "fullName": "Tubosun Abioye",
+  "gender": "male",
+  "password": "$2b$10$j1c5fFyxBUnrS2sEM5LqCOFIruuG5q9p8hbmHFJRiECypGj.TWVP2",
+  "phoneNumber": "09085704120",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-12-23T05:49:36.213Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Abioye",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6MTYyNmEyZjI2YTA4ZjdlNGJiYzA2OCIsImV4cCI6MTY0MDg0MzM4MSwiZmlkIjoiZnBtS1ltUG9TYmljNy1yX05ZWGxCdyIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRAIgVSg8DvfT28XRsHS_FxO9b3Zn73trcIKyjqnNKBHHdicCIFGwfR-jSafW2DZuFsxNLT8FBygR497KT2TPFqpnFNX2",
+  "loginType": "password"
+},{
+  "_id": {
+    "$oid": "61c427d7fe6091264d6dc02e"
+  },
+  "userID": "WSyetn",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1976-12-23T00:00:00Z"
+  },
+  "emailAddress": "kunlextech@yahoo.com",
+  "emailverify": false,
+  "fullName": "Damola",
+  "gender": "female",
+  "password": "$2b$10$mb2732Y2AzT2/I20LD6Qtu4OpsZSnRAGc8WJRd6LUAqcBBasdLGpG",
+  "phoneNumber": "0805653464",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859945/Group_721_dfyc7g.png",
+  "registerDate": {
+    "$date": "2021-12-23T07:40:07.643Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Mate",
+  "wallet": 0,
+  "deviceOS": "Android",
+  "deviceToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjU5MzA3NjQyODA5OmFuZHJvaWQ6MTYyNmEyZjI2YTA4ZjdlNGJiYzA2OCIsImV4cCI6MTY0MDg1MDAxMSwiZmlkIjoiZG03Ul83TWJRYkdTQy1FRGxxVUJDbCIsInByb2plY3ROdW1iZXIiOjY1OTMwNzY0MjgwOX0.AB2LPV8wRgIhAJP3Z73QuIUVRDmkuIsPhywaCAUWx61Gky0snT8YLJ7dAiEA7ETJ42075vX60HE3exsyDh-m_m8b2UuOlvwxl8u9K8E"
+},{
+  "_id": {
+    "$oid": "61cc65b9fe6091264d4cf0fc"
+  },
+  "userID": "61oWX4",
+  "countryCode": "234",
+  "dob": {
+    "$date": "2000-01-01T00:00:00Z"
+  },
+  "emailAddress": "olamide@2canplay.com",
+  "emailverify": false,
+  "fullName": "Martins",
+  "gender": "male",
+  "password": "$2b$10$swa1GQMbuLW7mwYUyvE/4OKe70vBbadLWHjo0zDB1bpiF9IdZlUvy",
+  "phoneNumber": "09077558286",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-12-29T13:42:17.581Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Martins123",
+  "wallet": 0,
+  "loginType": "password"
+},{
+  "_id": {
+    "$oid": "61cc6780fe6091264d4d21c7"
+  },
+  "userID": "D28iMT",
+  "countryCode": "234",
+  "dob": {
+    "$date": "2000-06-15T00:00:00Z"
+  },
+  "emailAddress": "olamideakeredolu@gmail.com",
+  "emailverify": false,
+  "fullName": "Olamide Akeredolu-Martins",
+  "gender": "male",
+  "password": "$2b$10$KJ7RQcFjz03kCR.0iP9T1O4elVjXXPjJABbi.TCd7BuqM/K4urNvC",
+  "phoneNumber": "09079431948",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859933/Group_720_wdae1i.png",
+  "registerDate": {
+    "$date": "2021-12-29T13:49:52.032Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "Olamide123",
+  "wallet": 0,
+  "loginType": "password"
+},{
+  "_id": {
+    "$oid": "61d35995fe6091264d0b9d74"
+  },
+  "userID": "IgTJEN",
+  "emailAddress": "kehindehussein01@gmail.com",
+  "facebookToken": "1361618004179668",
+  "registerType": "facebook",
+  "loginType": "facebook"
+},{
+  "_id": {
+    "$oid": "61d8b447fe6091264da446b8"
+  },
+  "userID": "nXsYri",
+  "countryCode": "234",
+  "dob": {
+    "$date": "1984-08-09T00:00:00Z"
+  },
+  "emailAddress": "kunlex@gmail.com",
+  "emailverify": false,
+  "fullName": "damola adeniji",
+  "gender": "female",
+  "password": "$2b$10$GOISao/k02T4FcvhX3wKKOmWCPE.FBPBdi4krMZB189BMkba6OIrm",
+  "phoneNumber": "08033574431",
+  "profilePic": "https://res.cloudinary.com/ddvype20r/image/upload/v1637859945/Group_721_dfyc7g.png",
+  "registerDate": {
+    "$date": "2022-01-07T21:44:39.079Z"
+  },
+  "registerType": "password",
+  "status": "active",
+  "subscription": "basic",
+  "userName": "damola",
+  "wallet": 0,
+  "loginType": "password"
+}]

@@ -48,7 +48,7 @@ app.use(errorHandlerMiddleware);
      console.log(`Logged Error ${err}`);
      server.close(()=>process.exit(1))
      });
-    console.log('CONNECTED TO THE DATABASE @LOCALHOST 27017')
+    console.log('CONNECTED TO THE DATABASE')
 }catch(error){
     console.log(error)
 }

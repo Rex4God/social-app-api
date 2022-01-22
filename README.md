@@ -38,4 +38,16 @@ npm run test
 
 ```
 npm run dev
+
 ```
+## Key Note
+-Login Details field for user is loginId and password. Which the loginId can be email Address, username and phone number
+-Use case: "loginId": "rexman@gmail.com"
+-          "password":"12345jkl"
+
+-          "loginId": "rex"
+-           "password":"12345jkl"
+
+-           "loginId": "081547586748"
+-           "password": "12345jkl"
+            
